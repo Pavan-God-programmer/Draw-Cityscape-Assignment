@@ -31,3 +31,15 @@ ctx.fillRect(150, 100, 150, 550);
 ctx.fillRect(170, 40, 110, 60);
 // Small Top
 ctx.fillRect(190, 20, 70, 20);
+
+//
+//
+//
+//
+//
+//
+//
+
+// Long Rect
+ctx.fillStyle = "white";
+ctx.fillRect(200, 40, 10, 600);
