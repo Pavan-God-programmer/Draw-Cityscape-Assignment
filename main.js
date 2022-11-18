@@ -40,6 +40,12 @@ ctx.fillRect(190, 20, 70, 20);
 //
 //
 
+ctx.fillstyle - "white";
+let yVal = 200;
+let xVal = 40;
+for (let num = 1; num <= 100; num++) {
+    console.log(num);
+  }
 // ctx.fillstyle - "white";
 // let yVal = 200;
 // let xVal = 40;
